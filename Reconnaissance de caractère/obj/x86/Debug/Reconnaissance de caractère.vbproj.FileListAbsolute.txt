@@ -1,0 +1,21 @@
+C:\Users\Pierre\Desktop\SIM\Reconnaissance de caractère\Reconnaissance de caractère\bin\Debug\Reconnaissance de caractère.exe
+C:\Users\Pierre\Desktop\SIM\Reconnaissance de caractère\Reconnaissance de caractère\bin\Debug\Reconnaissance de caractère.pdb
+C:\Users\Pierre\Desktop\SIM\Reconnaissance de caractère\Reconnaissance de caractère\bin\Debug\Reconnaissance de caractère.xml
+C:\Users\Pierre\Desktop\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pierre\Desktop\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\Reconnaissance_de_caractère.Form1.resources
+C:\Users\Pierre\Desktop\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\Reconnaissance_de_caractère.Resources.resources
+C:\Users\Pierre\Desktop\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pierre\Desktop\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pierre\Desktop\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\Reconnaissance de caractère.exe
+C:\Users\Pierre\Desktop\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\Reconnaissance de caractère.xml
+C:\Users\Pierre\Desktop\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\Reconnaissance de caractère.pdb
+C:\Users\Ilysse\Google Drive\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\Reconnaissance de caractère.exe
+C:\Users\Ilysse\Google Drive\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\Reconnaissance de caractère.xml
+C:\Users\Ilysse\Google Drive\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\Reconnaissance de caractère.pdb
+C:\Users\Ilysse\Google Drive\SIM\Reconnaissance de caractère\Reconnaissance de caractère\bin\Debug\Reconnaissance de caractère.exe
+C:\Users\Ilysse\Google Drive\SIM\Reconnaissance de caractère\Reconnaissance de caractère\bin\Debug\Reconnaissance de caractère.pdb
+C:\Users\Ilysse\Google Drive\SIM\Reconnaissance de caractère\Reconnaissance de caractère\bin\Debug\Reconnaissance de caractère.xml
+C:\Users\Ilysse\Google Drive\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\Reconnaissance de caractère.vbprojResolveAssemblyReference.cache
+C:\Users\Ilysse\Google Drive\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\Reconnaissance_de_caractère.Form1.resources
+C:\Users\Ilysse\Google Drive\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\Reconnaissance_de_caractère.Resources.resources
+C:\Users\Ilysse\Google Drive\SIM\Reconnaissance de caractère\Reconnaissance de caractère\obj\x86\Debug\Reconnaissance de caractère.vbproj.GenerateResource.Cache
